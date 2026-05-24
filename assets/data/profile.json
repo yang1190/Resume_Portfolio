@@ -1,0 +1,55 @@
+{
+  "name": "Haoliang Yang",
+  "location": "Canada",
+  "headline": "Senior Level Artist @ Digital Extremes | Ex-Ubisoft & CCP Games | AI Creative Explorer",
+  "contact": {
+    "email": "yang1190@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yang1190",
+    "portfolio": "https://yang1190.github.io/Portfolio/",
+    "artstation": "https://www.artstation.com/artist/yang117"
+  },
+  "skills": {
+    "gameArt": ["Level Art", "Environment Art", "Video Games", "Unreal Engine 3", "Lighting", "Optimization"],
+    "leadership": ["Art Direction", "Team Leadership", "Production Planning", "Outsourcing Management", "Visual Style Development", "Art Pipeline Documentation"],
+    "aiCreative": ["Vibe Coding", "AI Painting", "AI Image Generation", "AI Filmmaking", "AI-assisted Storytelling", "Creative Prototyping with AI"]
+  },
+  "experience": [
+    {
+      "company": "Digital Extremes",
+      "role": "Senior Level Artist",
+      "period": "August 2017 - Present",
+      "location": "London, Canada Area"
+    },
+    {
+      "company": "Garena Group",
+      "role": "Art Director",
+      "period": "May 2016 - July 2017",
+      "location": "Shanghai City, China"
+    },
+    {
+      "company": "CCP",
+      "role": "Art Manager / Lead Environment Artist / Senior Level Artist",
+      "period": "September 2010 - March 2016",
+      "location": "Shanghai City, China"
+    },
+    {
+      "company": "The9 Limited",
+      "role": "Art Manager",
+      "period": "July 2008 - August 2010"
+    },
+    {
+      "company": "Ubisoft",
+      "role": "Level Artist",
+      "period": "June 2004 - July 2008"
+    }
+  ],
+  "education": {
+    "school": "Soochow University (CN)",
+    "degree": "Bachelor's degree, Design Art",
+    "period": "2000 - 2004"
+  },
+  "languages": [
+    "Chinese — Native or Bilingual",
+    "English — Professional Working"
+  ]
+}

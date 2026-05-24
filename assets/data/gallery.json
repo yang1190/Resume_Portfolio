@@ -1,0 +1,458 @@
+[
+  {
+    "id": "Level Art",
+    "type": "image",
+    "title": "Warframe: The Old Place",
+    "title_zh": "星际战甲：旧地",
+    "category": "WarFrame",
+    "images": [
+      "https://cdna.artstation.com/p/assets/images/images/096/347/672/large/haoliang-yang-tau-04.webp?1771047500",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/674/large/haoliang-yang-tau-01.webp?1771047502",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/676/large/haoliang-yang-tau-02.webp?1771047504",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/670/large/haoliang-yang-tau-03.webp?1771047497"
+    ],
+    "description": "Sculpted a desolate alien landscape through a hybrid manual and procedural workflow — terrain shaping, rock scattering, and silhouette composition tuned for cinematic gameplay framing.",
+    "description_zh": "通过手工与程序化结合的工作流，雕刻出荒芜的外星地貌 —— 地形塑形、岩石散布与剪影构图均为电影化的游戏视角而调校。",
+    "layout": "wide"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Fantasy World",
+    "title_zh": "奇幻世界",
+    "category": "AIGC",
+    "images": [
+      "https://cdna.artstation.com/p/assets/images/images/082/396/098/large/haoliang-yang-landscape-copy-2.jpg?1732863100",
+      "https://cdna.artstation.com/p/assets/images/images/063/538/216/large/haoliang-yang-jcity-countryside-copy-2.jpg?1685748433",
+      "assets/img/City_A.png",
+      "https://cdna.artstation.com/p/assets/images/images/063/385/208/large/haoliang-yang-jcity-sunset02-copy-2.jpg?1685420150",
+      "https://cdnb.artstation.com/p/assets/images/images/063/876/465/large/haoliang-yang-jcity-cargirl03-copy.jpg?1686590331"
+    ],
+    "description": "Hand-drawn fantasy environment series produced through a custom ComfyUI pipeline with LoRA fine-tuning for a consistent illustrative style.",
+    "description_zh": "手绘风格奇幻场景系列，通过自定义 ComfyUI 管线与 LoRA 微调，呈现统一的插画化视觉风格。",
+    "layout": "tall"
+  },
+  {
+    "id": "Raven Tavern",
+    "type": "video",
+    "title": "The Secret of the Raven Tavern",
+    "title_zh": "渡鸦酒馆的秘密",
+    "category": "AIGC",
+    "src": "assets/video/The_Secret_of_the_Raven_Tavern.mp4",
+    "poster": "assets/img/RavenTavern.png",
+    "description": "Cinematic short driven by GPT Image-2, Seedance 2.0, and LiblibTV — an end-to-end AIGC pipeline delivering high-fidelity video at production speed.",
+    "description_zh": "由 GPT Image-2、Seedance 2.0 与 LiblibTV 驱动的电影化短片 —— 端到端 AIGC 管线，以制作级速度输出高保真视频。",
+    "layout": "wide"
+  },
+  {
+    "id": "Material",
+    "type": "image",
+    "title": "Sci-Fi Trim Sheet",
+    "title_zh": "科幻 Trim Sheet",
+    "category": "Material",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/066/379/505/large/haoliang-yang-sci-fi-floor-material-01.jpg?1692759678",
+      "https://cdna.artstation.com/p/assets/images/images/066/379/500/large/haoliang-yang-sci-fi-floor-material-03.jpg?1692759664",
+      "https://cdna.artstation.com/p/assets/images/images/066/379/502/large/haoliang-yang-sci-fi-floor-material-02.jpg?1692759672"
+    ],
+    "description": "Tileable sci-fi trim sheet authored in Substance 3D Designer — fully parametric and optimized for modular hard-surface kit-bashing.",
+    "description_zh": "在 Substance 3D Designer 中创作的可平铺科幻 Trim Sheet —— 完全参数化，专为模块化硬表面拼接而优化。",
+    "layout": "standard"
+  },
+  {
+    "id": "Gamedev",
+    "type": "video",
+    "title": "Project WARZONE",
+    "title_zh": "WARZONE 项目",
+    "category": "ShowCase",
+    "src": "assets/video/Warzone_Demo_2K.mp4",
+    "poster": "assets/img/Warzone.png",
+    "description": "Fully featured third-person shooter prototype — gunplay, AI, and systemic combat staged inside a war-themed sandbox.",
+    "description_zh": "功能完整的第三人称射击原型 —— 枪械手感、AI 与系统化战斗，置于战争主题的沙盒之中。",
+    "layout": "wide"
+  },
+  {
+    "id": "artstation-gallery",
+    "type": "image",
+    "title": "Chainsaw man Mecha",
+    "title_zh": "电锯人机甲",
+    "category": "AIGC",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/072/357/759/large/haoliang-yang-00007-144721897-copy.jpg?1707189317",
+      "https://cdnb.artstation.com/p/assets/images/images/072/357/755/large/haoliang-yang-00171-copy.jpg?1707189309",
+      "https://cdna.artstation.com/p/assets/images/images/072/357/758/large/haoliang-yang-00003-2181338419-copy.jpg?1707189313",
+      "https://cdnb.artstation.com/p/assets/images/images/072/357/761/large/haoliang-yang-chainsawman01-copy-2.jpg?1707189352"
+    ],
+    "description": "Stylized mecha concept series generated through a local ComfyUI pipeline with a custom-trained LoRA driving consistent design language.",
+    "description_zh": "风格化机甲概念系列，通过本地 ComfyUI 管线生成，并由自训练 LoRA 驱动统一的设计语言。",
+    "layout": "tall"
+  },
+  {
+    "id": "Material",
+    "type": "image",
+    "title": "Sand Rock",
+    "title_zh": "沙漠岩石",
+    "category": "Material",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/095/244/767/large/haoliang-yang-desertrock-tutorial-preview-viewport01-viewport.webp?1768016867",
+      "https://cdnb.artstation.com/p/assets/images/images/095/244/769/large/haoliang-yang-desertrock-tutorial-preview-ue.webp?1768016870"
+    ],
+    "description": "Procedural desert rock material authored in Substance 3D Designer — fully parametric, art-directable, and validated in Unreal Engine.",
+    "description_zh": "在 Substance 3D Designer 中创作的程序化沙漠岩石材质 —— 完全参数化、可艺术化调控，并已在 Unreal Engine 中验证。",
+    "layout": "standard"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Desert Outpost",
+    "title_zh": "沙漠前哨基地",
+    "category": "DUST 514",
+    "images": [
+      "assets/img/DesertOutpost.png",
+      "assets/img/Dust514_01.png",
+      "assets/img/Dust514_02.png",
+      "assets/img/Dust514_03.png",
+      "assets/img/Dust514_04.png"
+    ],
+    "description": "Forward operating base level art from DUST 514 — an FPS title set within the EVE Online universe.",
+    "description_zh": "来自 DUST 514 的前进作战基地关卡美术 —— 一款设定于 EVE Online 宇宙的 FPS 游戏。",
+    "layout": "standard"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "The Last Battle",
+    "title_zh": "最后一战",
+    "category": "DUST 514",
+    "src": "assets/img/TheLastBattle.png",
+    "description": "Key art moment — a Caldari HAV poised at the brink of the final engagement within the EVE universe.",
+    "description_zh": "关键视觉时刻 —— 一辆卡尔达里 HAV 在 EVE 宇宙的最终决战临界点上蓄势待发。",
+    "layout": "wide"
+  },
+  {
+    "id": "Blood Message",
+    "type": "video",
+    "title": "Project : Blood Message",
+    "title_zh": "血书项目",
+    "category": "ShowCase",
+    "src": "assets/video/BloodMessage.mp4",
+    "poster": "assets/img/BloodMessage.png",
+    "description": "Unreal Engine 5 cinematic — owned the full pipeline from Gaea 2 terrain generation through scene construction and Sequencer-driven cutscenes.",
+    "description_zh": "虚幻引擎 5 电影化短片 —— 全流程独立负责，从 Gaea 2 地形生成到场景搭建与 Sequencer 驱动的过场动画。",
+    "layout": "wide"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Heavy Mecha",
+    "title_zh": "重型机甲",
+    "category": "AIGC",
+    "src": "assets/img/HeavyMecha.png",
+    "description": "Heavy mecha concept rendered through a local ComfyUI pipeline with prompt-engineered silhouette and material control.",
+    "description_zh": "重型机甲概念，通过本地 ComfyUI 管线渲染，结合提示词工程驱动的剪影与材质控制。",
+    "layout": "tall"
+  },
+  {
+    "id": "Level Art",
+    "type": "image",
+    "title": "Warframe: Cycle of Hell",
+    "title_zh": "星际战甲：地狱轮回",
+    "category": "WarFrame",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/096/347/083/large/haoliang-yang-deviltower-08.webp?1771044256",
+      "https://cdnb.artstation.com/p/assets/images/images/096/347/085/large/haoliang-yang-deviltower-05.webp?1771044263",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/084/large/haoliang-yang-deviltower-06.webp?1771044260",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/076/large/haoliang-yang-deviltower-13.webp?1771044241",
+      "https://cdnb.artstation.com/p/assets/images/images/096/347/077/large/haoliang-yang-deviltower-12.webp?1771044244",
+      "https://cdnb.artstation.com/p/assets/images/images/096/347/079/large/haoliang-yang-deviltower-11.webp?1771044246",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/088/large/haoliang-yang-deviltower-01.webp?1771044268",
+      "https://cdna.artstation.com/p/assets/images/images/096/347/080/large/haoliang-yang-deviltower-09.webp?1771044249"
+    ],
+    "description": "Warframe level art — sole ownership from greybox blockout through final shipping polish, including layout, set dressing, and lighting pass.",
+    "description_zh": "Warframe 关卡美术 —— 独立负责从灰盒蓝图到最终出货打磨的全过程，包括布局、置景与灯光 pass。",
+    "layout": "wide"
+  },
+  {
+    "id": "Level Art",
+    "type": "image",
+    "title": "Warframe: 1999",
+    "title_zh": "星际战甲：1999",
+    "category": "WarFrame",
+    "images": [
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/463/large/haoliang-yang-wf1999-screenshots-06-copy.jpg?1740108158",
+      "https://cdna.artstation.com/p/assets/images/images/085/124/806/large/haoliang-yang-wf1999-screenshots-01-copy.jpg?1740026655",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/468/large/haoliang-yang-wf1999-screenshots-10-copy.jpg?1740108176",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/480/large/haoliang-yang-wf1999-screenshots-18-copy.jpg?1740108212",
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/461/large/haoliang-yang-wf1999-screenshots-05-copy.jpg?1740108153",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/464/large/haoliang-yang-wf1999-screenshots-07-copy.jpg?1740108163",
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/459/large/haoliang-yang-wf1999-screenshots-04.jpg?1740108149",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/470/large/haoliang-yang-wf1999-screenshots-11-copy.jpg?1740108181",
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/471/large/haoliang-yang-wf1999-screenshots-12-copy.jpg?1740108185",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/472/large/haoliang-yang-wf1999-screenshots-13-copy.jpg?1740108189",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/474/large/haoliang-yang-wf1999-screenshots-14-copy.jpg?1740108194",
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/475/large/haoliang-yang-wf1999-screenshots-15-copy.jpg?1740108199",
+      "https://cdna.artstation.com/p/assets/images/images/085/163/476/large/haoliang-yang-wf1999-screenshots-16-copy.jpg?1740108203",
+      "https://cdnb.artstation.com/p/assets/images/images/085/163/481/large/haoliang-yang-wf1999-screenshots-19-copy.jpg?1740108217"
+    ],
+    "description": "Warframe: 1999 level art — drove the environment from greybox to final, handling layout, set dressing, and visual polish at shipping quality.",
+    "description_zh": "Warframe: 1999 关卡美术 —— 从灰盒到最终成品全程主导环境制作，负责布局、置景与视觉打磨，达到出货品质。",
+    "layout": "standard"
+  },
+  {
+    "id": "artstation-gallery",
+    "type": "image",
+    "title": "Dead Space - Ship Interior",
+    "title_zh": "死亡空间 —— 飞船内部",
+    "category": "AIGC",
+    "images": [
+      "https://cdna.artstation.com/p/assets/images/images/067/035/816/large/haoliang-yang-hallway-0910-d-copy.jpg?1694405728",
+      "https://cdna.artstation.com/p/assets/images/images/067/035/820/large/haoliang-yang-hallway-0910-e-copy.jpg?1694405662",
+      "https://cdnb.artstation.com/p/assets/images/images/067/035/805/large/haoliang-yang-hallway-0910-a-copy.jpg?1694405629",
+      "https://cdna.artstation.com/p/assets/images/images/067/035/812/large/haoliang-yang-hallway-0910-c-copy.jpg?1694405644",
+      "https://cdna.artstation.com/p/assets/images/images/067/035/808/large/haoliang-yang-hallway-0910-b-copy.jpg?1694405637"
+    ],
+    "description": "Concept series exploring sci-fi spaceship interiors in the spirit of Dead Space — atmosphere and material studies generated with Midjourney.",
+    "description_zh": "以《死亡空间》气质为灵感的科幻飞船内部概念系列 —— 由 Midjourney 生成的氛围与材质研究。",
+    "layout": "wide"
+  },
+  {
+    "id": "Gemstone",
+    "type": "video",
+    "title": "Gemstone",
+    "title_zh": "宝石 —— 紫水晶",
+    "category": "Render",
+    "src": "https://cdn.artstation.com/p/video_sources/001/671/809/nft-amethyst-1-1.mp4",
+    "poster": "https://cdna.artstation.com/p/assets/images/images/069/963/278/large/haoliang-yang-gem.jpg?1701412716",
+    "description": "Amethyst — collectible asset rendered for an NFT gemstone series, tuned for refraction and dispersion fidelity.",
+    "description_zh": "紫水晶 —— 为 NFT 宝石系列渲染的收藏品资产，针对折射与色散保真度调校。",
+    "layout": "standard"
+  },
+  {
+    "id": "Gemstone",
+    "type": "video",
+    "title": "Gemstone",
+    "title_zh": "宝石 —— 石英",
+    "category": "Render",
+    "src": "https://cdn.artstation.com/p/video_sources/001/671/813/nft-quartz-1.mp4",
+    "poster": "https://cdna.artstation.com/p/assets/images/images/069/963/278/large/haoliang-yang-gem.jpg?1701412716",
+    "description": "Quartz — collectible asset rendered for an NFT gemstone series, tuned for refraction and dispersion fidelity.",
+    "description_zh": "石英 —— 为 NFT 宝石系列渲染的收藏品资产，针对折射与色散保真度调校。",
+    "layout": "standard"
+  },
+  {
+    "id": "Gemstone",
+    "type": "video",
+    "title": "Gemstone",
+    "title_zh": "宝石 —— 祖母绿",
+    "category": "Render",
+    "src": "https://cdn.artstation.com/p/video_sources/001/671/810/nft-emeralds-1.mp4",
+    "poster": "https://cdna.artstation.com/p/assets/images/images/069/963/278/large/haoliang-yang-gem.jpg?1701412716",
+    "description": "Emerald — collectible asset rendered for an NFT gemstone series, tuned for refraction and dispersion fidelity.",
+    "description_zh": "祖母绿 —— 为 NFT 宝石系列渲染的收藏品资产，针对折射与色散保真度调校。",
+    "layout": "standard"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Cyberpunk World",
+    "title_zh": "赛博朋克世界",
+    "category": "ShowCase",
+    "src": "assets/img/CyberpunkA.png",
+    "description": "Cyberpunk environment study — illustrative key frame generated via a custom LoRA on a local ComfyUI workflow.",
+    "description_zh": "赛博朋克场景研究 —— 通过本地 ComfyUI 工作流上的自定义 LoRA 生成的插画化关键画面。",
+    "layout": "tall"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Cyberpunk World",
+    "title_zh": "赛博朋克世界",
+    "category": "ShowCase",
+    "src": "assets/img/CyberpunkB.png",
+    "description": "Cyberpunk environment study — illustrative key frame generated via a custom LoRA on a local ComfyUI workflow.",
+    "description_zh": "赛博朋克场景研究 —— 通过本地 ComfyUI 工作流上的自定义 LoRA 生成的插画化关键画面。",
+    "layout": "wide"
+  },
+  {
+    "id": "Gemstone",
+    "type": "video",
+    "title": " Lava Planet Mining District",
+    "title_zh": "熔岩星球采矿区",
+    "category": "ShowCase",
+    "src": "https://cdn.artstation.com/p/video_sources/001/040/912/javaplanet2k.mp4",
+    "poster": "assets/img/LavaPlanetMiningDistrict.png",
+    "description": "Base terrain authored as a Gaea heightmap, imported to UE5 for landscape generation, with landscape splines driving the molten lava flow. Layout, lighting, and post pass finished in-engine.",
+    "description_zh": "基础地形由 Gaea 高度图制作，导入 UE5 进行地貌生成，并以 Landscape Spline 驱动熔岩流动。布局、灯光与后期均在引擎内完成。",
+    "layout": "wide"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Cyberpunk Girl",
+    "title_zh": "赛博朋克女孩",
+    "category": "AIGC",
+    "src": "https://cdna.artstation.com/p/assets/images/images/082/240/030/large/haoliang-yang-hoody-girl-copy.jpg?1732465969",
+    "description": "Cyberpunk character study generated through a local ComfyUI pipeline.",
+    "description_zh": "通过本地 ComfyUI 管线生成的赛博朋克角色研究。",
+    "layout": "tall"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Cyberpunk Girl",
+    "title_zh": "赛博朋克女孩",
+    "category": "AIGC",
+    "src": "https://cdnb.artstation.com/p/assets/images/images/082/252/755/large/haoliang-yang-hammer-girl-hi-res-02.jpg?1732500570",
+    "description": "Cyberpunk character study generated through a local ComfyUI pipeline.",
+    "description_zh": "通过本地 ComfyUI 管线生成的赛博朋克角色研究。",
+    "layout": "tall"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Cyberpunk Girld",
+    "title_zh": "赛博朋克女孩",
+    "category": "AIGC",
+    "src": "https://cdna.artstation.com/p/assets/images/images/082/255/842/large/haoliang-yang-hoody-girl02-copy.jpg?1732512741",
+    "description": "Cyberpunk character study generated through a local ComfyUI pipeline.",
+    "description_zh": "通过本地 ComfyUI 管线生成的赛博朋克角色研究。",
+    "layout": "tall"
+  },
+  {
+    "id": "Gamedev",
+    "type": "link",
+    "title": "Hakimi Block Blast!",
+    "title_zh": "Hakimi Block Blast!",
+    "category": "GameDev",
+    "thumbnail": "assets/img/Hakimi_promote.png",
+    "href": "https://play.google.com/store/apps/details?id=com.PhantomWorks.HakimiBlockBlast",
+    "description": "Independently developed and shipped mobile puzzle title — now live on Google Play.",
+    "description_zh": "独立开发并已上线的移动端益智游戏 —— 现已登陆 Google Play 商店。",
+    "layout": "tall"
+  },
+  {
+    "id": "Gamedev",
+    "type": "video",
+    "title": "Stylized Character Design",
+    "title_zh": "风格化角色设计",
+    "category": "AIGC",
+    "src": "assets/video/StylizedCharacter.mp4",
+    "poster": "assets/img/StylizedCharacter.png",
+    "description": "Disney-style 3D character pipeline blending traditional CG craft with AIGC-assisted iteration for rapid look development.",
+    "description_zh": "迪士尼风格的 3D 角色管线，融合传统 CG 制作与 AIGC 辅助迭代，实现快速视觉开发。",
+    "layout": "wide"
+  },
+  {
+    "id": "Gamedev",
+    "type": "video",
+    "title": "Project : BladeWar",
+    "title_zh": "刀剑战争项目",
+    "category": "GameDev",
+    "src": "assets/video/BossFight.mp4",
+    "poster": "assets/img/BladeWar.png",
+    "description": "Action prototype featuring a combo-driven melee combat system and a fully scripted boss encounter.",
+    "description_zh": "动作原型，包含连击驱动的近战战斗系统与一段完整脚本化的 Boss 战。",
+    "layout": "standard"
+  },
+  {
+    "id": "Gamedev",
+    "type": "video",
+    "title": "Project WARZONE",
+    "title_zh": "WARZONE 项目",
+    "category": "GameDev",
+    "src": "assets/video/Warzone02.mp4",
+    "poster": "assets/img/Warzone2.png",
+    "description": "Stealth gameplay vertical slice from the WARZONE prototype — AI awareness, cover navigation, and tactical pacing.",
+    "description_zh": "WARZONE 原型中的潜行玩法垂直切片 —— 包含 AI 感知、掩体导航与战术节奏。",
+    "layout": "standard"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Off-Road Vehicle",
+    "title_zh": "越野车辆",
+    "category": "AIGC",
+    "images": [
+      "assets/img/Vehicle_A.png",
+      "assets/img/Vehicle_B.png"
+    ],
+    "description": "Stylized off-road vehicle developed through a hybrid 3D CG and AIGC workflow — concept-to-render in a single iterative loop.",
+    "description_zh": "通过 3D CG 与 AIGC 混合工作流开发的风格化越野载具 —— 概念到渲染一气呵成的迭代循环。",
+    "layout": "wide"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Sci‑fi Girl Portrait",
+    "title_zh": "科幻女性肖像",
+    "category": "AIGC",
+    "images": [
+      "assets/img/Scifi_Girl_Portrait_A.png",
+      "assets/img/Scifi_Girl_Portrait_B.png"
+    ],
+    "description": "Sci-fi female character portrait crafted through a hybrid CG and AIGC pipeline for cinematic likeness and material fidelity.",
+    "description_zh": "通过 CG 与 AIGC 混合管线打造的科幻女性角色肖像，追求电影化的人物相似度与材质保真度。",
+    "layout": "standard"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Sci‑fi Male Portrait",
+    "title_zh": "科幻男性肖像",
+    "category": "AIGC",
+    "images": [
+      "assets/img/Scifi_Male_Portrait_A.png",
+      "assets/img/Scifi_Male_Portrait_B.png"
+    ],
+    "description": "Sci-fi male character portrait crafted through a hybrid CG and AIGC pipeline for cinematic likeness and material fidelity.",
+    "description_zh": "通过 CG 与 AIGC 混合管线打造的科幻男性角色肖像，追求电影化的人物相似度与材质保真度。",
+    "layout": "tall"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "META CITY",
+    "title_zh": "元宇宙城市",
+    "category": "Metaverse",
+    "images": [
+      "assets/img/MetaCity_02.png",
+      "assets/img/MetaCity_01.png",
+      "assets/img/MetaCity_03.png",
+      "assets/img/MetaCity_04.png",
+      "assets/img/MetaCity_05.png",
+      "assets/img/MetaCity_06.png",
+      "assets/img/MetaCity_07.png",
+      "assets/img/MetaCity_08.png"
+    ],
+    "description": "Metaverse city built in UE5 — a real-time virtual space designed for immersive VR exploration.",
+    "description_zh": "在 UE5 中构建的元宇宙城市 —— 为沉浸式 VR 探索而设计的实时虚拟空间。",
+    "layout": "tall"
+  },
+  {
+    "id": "Images",
+    "type": "image",
+    "title": "Alien Base",
+    "title_zh": "外星基地",
+    "category": "Metaverse",
+    "images": [
+      "assets/img/ScifiFPS_02.png",
+      "assets/img/ScifiFPS_01.png",
+      "assets/img/ScifiFPS_03.png"
+    ],
+    "description": "Sci-fi alien base environment built in UE5 — VR-ready level art tuned for metaverse deployment.",
+    "description_zh": "在 UE5 中构建的科幻外星基地场景 —— 为元宇宙部署调校的 VR 级关卡美术。",
+    "layout": "standard"
+  },
+  {
+    "id": "Coding",
+    "type": "link",
+    "title": "Image to Prompt",
+    "title_zh": "Image to Prompt（图生提示词）",
+    "category": "Vibe Coding",
+    "thumbnail": "assets/img/Img2Prompt.jpg",
+    "href": "https://chromewebstore.google.com/detail/image-to-prompt/amdjiehmopfajoodndkjfadammokifkg",
+    "description": "AI-assisted Chrome extension — published on the Chrome Web Store — that converts any image into a descriptive generative prompt.",
+    "description_zh": "AI 辅助的 Chrome 扩展 —— 已上架 Chrome Web Store —— 可将任何图像转换为描述性的生成式提示词。",
+    "layout": "standard"
+  }
+]

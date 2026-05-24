@@ -1,0 +1,178 @@
+.reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  filter: blur(10px);
+  transition: opacity 700ms ease var(--stagger, 0ms), transform 700ms ease var(--stagger, 0ms), filter 700ms ease var(--stagger, 0ms);
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  filter: blur(0);
+}
+
+.site-header.reveal {
+  transform: translateX(-50%) translateY(-12px);
+}
+
+.site-header.reveal.is-visible {
+  transform: translateX(-50%) translateY(0);
+}
+
+.liquid-glass::after,
+.liquid-glass-strong::after {
+  content: "";
+  position: absolute;
+  inset: -40%;
+  z-index: 1;
+  pointer-events: none;
+  background: linear-gradient(115deg, transparent 34%, hsl(var(--accent-cyan) / 0.16), hsl(var(--accent-violet) / 0.12), transparent 66%);
+  transform: translateX(-30%) rotate(10deg);
+  opacity: 0;
+  transition: opacity 320ms ease, transform 900ms ease;
+}
+
+.liquid-glass:hover::after,
+.liquid-glass-strong:hover::after {
+  opacity: 1;
+  transform: translateX(30%) rotate(10deg);
+}
+
+.tilt-card {
+  transition: transform 240ms ease, opacity 700ms ease, filter 700ms ease;
+  will-change: transform;
+}
+
+.timeline::before {
+  animation: timelineGlow 6s ease-in-out infinite alternate;
+}
+
+.hero-panel,
+.card-icon,
+.social-link {
+  animation: softFloat 7s ease-in-out infinite;
+}
+
+.gallery-section::before {
+  animation: auroraDrift 12s ease-in-out infinite alternate;
+}
+
+.gallery-card {
+  transition:
+    transform 320ms cubic-bezier(0.2, 0.8, 0.2, 1),
+    opacity 700ms ease var(--stagger, 0ms),
+    filter 700ms ease var(--stagger, 0ms),
+    border-color 260ms ease,
+    box-shadow 260ms ease;
+}
+
+.gallery-card:hover,
+.gallery-card:focus-visible {
+  border-color: hsl(var(--accent-cyan) / 0.5);
+  box-shadow:
+    0 28px 90px hsl(var(--black) / 0.42),
+    0 0 48px hsl(var(--accent-cyan) / 0.18),
+    0 0 72px hsl(var(--accent-violet) / 0.1);
+}
+
+.gallery-card .gallery-type .icon,
+.gallery-card-action .icon {
+  transition: transform 260ms ease;
+}
+
+.gallery-card:hover .gallery-type .icon,
+.gallery-card:hover .gallery-card-action .icon,
+.gallery-card:focus-visible .gallery-type .icon,
+.gallery-card:focus-visible .gallery-card-action .icon {
+  transform: translateX(3px) scale(1.08);
+}
+
+.gallery-lightbox.is-open .gallery-lightbox-backdrop {
+  animation: lightboxFade 220ms ease both;
+}
+
+.gallery-lightbox.is-open .gallery-lightbox-panel {
+  animation: lightboxScale 320ms cubic-bezier(0.2, 0.85, 0.2, 1) both;
+}
+
+.expertise-card:nth-child(2),
+.lab-card:nth-child(2),
+.lab-card:nth-child(4) {
+  animation-delay: 120ms;
+}
+
+.expertise-card:nth-child(3),
+.lab-card:nth-child(3) {
+  animation-delay: 240ms;
+}
+
+@keyframes softFloat {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -6px;
+  }
+}
+
+@keyframes timelineGlow {
+  from {
+    opacity: 0.35;
+    transform: scaleY(0.72);
+  }
+  to {
+    opacity: 1;
+    transform: scaleY(1);
+  }
+}
+
+@keyframes auroraDrift {
+  from {
+    transform: translate3d(-2%, -1%, 0) scale(0.96) rotate(-2deg);
+    opacity: 0.55;
+  }
+  to {
+    transform: translate3d(2%, 2%, 0) scale(1.08) rotate(2deg);
+    opacity: 0.9;
+  }
+}
+
+@keyframes lightboxFade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes lightboxScale {
+  from {
+    opacity: 0;
+    transform: translateY(18px) scale(0.96);
+    filter: blur(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 1ms !important;
+  }
+
+  .reveal {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
