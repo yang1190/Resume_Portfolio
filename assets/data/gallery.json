@@ -337,7 +337,7 @@
     "title_zh": "风格化角色设计",
     "category": "AIGC",
     "src": "assets/video/StylizedCharacter.mp4",
-    "poster": "assets/img/StylizedCharacter.png",
+    "poster": "assets/img/StylizedCharacter.jpg",
     "description": "Disney-style 3D character pipeline blending traditional CG craft with AIGC-assisted iteration for rapid look development.",
     "description_zh": "迪士尼风格的 3D 角色管线，融合传统 CG 制作与 AIGC 辅助迭代，实现快速视觉开发。",
     "layout": "wide"
