@@ -31,7 +31,7 @@
       },
       hero: {
         eyebrow: "Senior Level Artist · AI Creative Explorer",
-        title: "HAOLIANG YANG builds <em>worlds you can step into</em> — for games, AI, and film.",
+        title: "Builds <em>worlds you can step into</em> — for games, AI, and film.",
         lede:
           "Senior Level Artist at Digital Extremes, with credits at Ubisoft and CCP Games — AAA-honed environment and level art, now pushed further by AI-driven creative workflows.",
         ctaGallery: "View Gallery",
@@ -205,7 +205,7 @@
       },
       hero: {
         eyebrow: "高级关卡美术师 · AI创意探索者",
-        title: "杨浩亮构筑<em>可置身其中的世界</em> —— 服务于游戏、AI与电影。",
+        title: "构筑<em>可置身其中的世界</em> —— 服务于游戏、AI与影视。",
         lede:
           "Digital Extremes 高级关卡美术师，曾任职于 Ubisoft 与 CCP Games —— 经3A大作锤炼的场景与关卡美术功底，正借助AI驱动的创意工作流持续突破边界。",
         ctaGallery: "浏览作品",
@@ -224,7 +224,7 @@
         kicker: "简介",
         title: "深厚的3A游戏美术经验，融合<em>AI原生创造力</em>。",
         p1:
-          "杨浩亮是一位常驻加拿大的高级游戏美术师，曾任职于 Digital Extremes、Ubisoft、CCP Games、Garena 集团以及第九城市（The9 Limited），积累了深厚的3A大作制作经验。他的专长覆盖游戏制作全流程 —— 关卡美术、场景搭建、引擎编辑器工作流、灯光与性能优化，并延伸至艺术管理领域，主导过艺术管理、外包策略与视觉风格开发等工作。",
+          "杨浩亮是一位常驻加拿大的高级游戏美术师，任职于 Digital Extremes、Ubisoft、CCP Games、Garena 集团以及第九城市（The9 Limited），积累了深厚的3A大作制作经验。他的专长覆盖游戏制作全流程 —— 关卡美术、场景搭建、引擎编辑器工作流、灯光与性能优化，并延伸至艺术管理领域，主导过艺术管理、外包策略与视觉风格开发等工作。",
         p2:
           "在传统游戏美术制作之外，他正在着力构建一套AI原生的创作实践 —— 通过AI编程快速原型化工具与网页体验，借助AI绘画加速视觉构思，并运用AI影视制作打磨氛围、节奏与电影化叙事。",
       },
@@ -232,7 +232,7 @@
         kicker: "专业领域",
         title: "在<em>制作、领导力与AI</em>之间均衡发展。",
         card1Title: "游戏美术与制作",
-        card1Tags: ["关卡美术", "场景美术", "电子游戏", "Unreal Engine 3", "灯光", "性能优化"],
+        card1Tags: ["关卡美术", "场景美术", "电子游戏", "Unreal Engine 5", "灯光", "性能优化"],
         card2Title: "艺术指导与领导力",
         card2Tags: ["艺术指导", "团队领导", "制作规划", "外包管理", "视觉风格", "文档管理"],
         card3Title: "AI 创意技能",
@@ -286,17 +286,17 @@
               "为一款长线服务型3A大作驱动关卡与场景美术的视觉品质，为整个美术团队树立打磨度、空间可读性与制作一致性的标准。",
           },
           {
-            role: "艺术总监 · 中国上海",
+            role: "美术总监 · 中国上海",
             desc:
               "端到端负责多个项目的创意愿景 —— 定义视觉方向、向利益相关方主导战役提案、审查设计与美术产出以坚守高品质标准。",
           },
           {
-            role: "艺术经理 · 主场景美术师 · 高级关卡美术师",
+            role: "美术经理 · 主场景美术师 · 高级关卡美术师",
             desc:
               "主管 DUST 514 美术部门运营 —— 负责规划与排期，同时主导场景建模、关卡实现、跨团队协作及全制作流程的质量保障。",
           },
           {
-            role: "艺术经理",
+            role: "美术经理",
             desc:
               "搭建并领导一支40人美术部门 —— 确立项目的美术风格与制作流程，制定质量标准，管理外包伙伴以实现规模化交付。",
           },
